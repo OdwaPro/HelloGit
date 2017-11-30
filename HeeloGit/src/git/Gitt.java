@@ -6,7 +6,7 @@ public class Gitt {
 		System.out.print("Blahhh Blahhh Blahhh");
 		System.out.print("Blahhh Blahhh Blahhh");
 		System.out.print("Horrrayyy");
-		System.out.print(" HoBlah");
+	
 	}
 
 }
